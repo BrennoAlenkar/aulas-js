@@ -1,6 +1,6 @@
 let nome = "Brenno";
 
- alert("Olá, " + nome + "!");
+//alert("Olá, " + nome + "!");
 
  console.log(10 < 1);
 
